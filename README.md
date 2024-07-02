@@ -61,7 +61,6 @@ Die derzeitige Projektstruktur umfasst die folgenden Dateien und Dokumente:
 - `README_presenter.pdf`
 - `README_root.pdf`
 - `Informationen zu DreamMall.pdf`
-- `DreamMall_Bezahlsystem.pdf`
 
 ## Nutzung
 

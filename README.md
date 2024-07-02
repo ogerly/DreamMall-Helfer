@@ -76,12 +76,9 @@ Wir begrüßen Beiträge zu diesem Projekt! Wenn du Vorschläge hast oder Fehler
 ## Lizenz
 
 Dieses Projekt ist unter der Apache-2.0 license lizenziert. 
-## Weitere Informationen
+ 
 
-Für weitere Informationen und Unterstützung besuche bitte unsere [offizielle Website](https://chatgpt.com/g/g-Mb2nIU7FC-dreammall-helfer).
-
-
-
+____________________________
 ____________________________
 
 Die Arbeit an einem KI-basierten Chatbot wie dem DreamMall Helfer deckt eine Vielzahl von Arbeitsbereichen im KI-Sektor ab und repräsentiert mehrere neue Jobs. Hier sind einige davon:
